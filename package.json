@@ -23,6 +23,7 @@
     "embla-carousel-react": "^8.1.3",
     "mantine-form-zod-resolver": "^1.1.0",
     "next": "^15.0.0-rc.0",
+    "posthog-js": "^1.135.2",
     "react": "^19.0.0-rc-935180c7e0-20240524",
     "react-dom": "^19.0.0-rc-935180c7e0-20240524",
     "recharts": "^2.12.7",
