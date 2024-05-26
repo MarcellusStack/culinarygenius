@@ -12,10 +12,7 @@ export const ButtonAction = ({ values, ...props }: ButtonActionProps) => {
   return (
     <Button
       onClick={() => {
-        notifications.show({
-          title: "Default notification",
-          message: "Hey there, your code is awesome! 🤥",
-        });
+        throw new Error("This is a test error");
       }}
       {...props}
     >
